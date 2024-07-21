@@ -21,7 +21,7 @@
 <p>Licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for details.</p>
 
 <h2>Contact</h2>
-<p>For any questions or suggestions, feel free to open an issue or reach out at <a href="mailto:myringole@gmail.com">youremail@example.com</a>.</p>
+<p>For any questions or suggestions, feel free to open an issue or reach out at <a href="mailto:myringole@gmail.com">myringole@gmail.com</a>.</p>
 
 </body>
 </html>
